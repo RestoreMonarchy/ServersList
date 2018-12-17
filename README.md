@@ -3,7 +3,7 @@ Retrieves your server data from Unturned-Servers.net API.
 
 ## Requirements
 * PHP =< 5.0
-* Your Server Registered on Unturned-Servers.net
+* Your must be registered on Unturned-Servers.net
 
 ## Options
 All of the options that unturned-servers.net API gives you. I post an example of my server infos (these higlighted on red are the options, the all info is getting updated within 5 minutes).
