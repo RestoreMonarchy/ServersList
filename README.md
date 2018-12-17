@@ -36,3 +36,6 @@ last_check: "December 17th, 2018 12:20 PM EST",
 last_online: "December 17th, 2018 12:20 PM EST"
 }
 ```
+
+## Example
+![An image example](https://i.imgur.com/vGHhCNd.png)
