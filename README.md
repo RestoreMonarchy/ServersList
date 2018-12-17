@@ -41,3 +41,5 @@ last_online: "December 17th, 2018 12:20 PM EST"
 This is an example of how it looks in a simple Bootstrap 4 table. Not all options are used, but you can simply add them.
 
 ![An image example](https://i.imgur.com/vGHhCNd.png)
+
+#### If you still need help with set up, feel free to ask me for it on my Discord https://discord.gg/dCHkuxS
