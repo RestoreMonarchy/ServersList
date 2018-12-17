@@ -38,4 +38,5 @@ last_online: "December 17th, 2018 12:20 PM EST"
 ```
 
 ## Example
+This is an example of how it looks in a simple Bootstrap 4 table. Not all options are used, but you can simply add them.
 ![An image example](https://i.imgur.com/vGHhCNd.png)
