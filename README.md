@@ -6,7 +6,7 @@ Retrieves your server data from Unturned-Servers.net API.
 * Your Server Registered on Unturned-Servers.net
 
 ## Options
-All of the options that unturned-servers.net API gives you. I post an example of my server infos.
+All of the options that unturned-servers.net API gives you. I post an example of my server infos (these higlighted on red are the options, the all info is getting updated within 5 minutes).
 ```json
 {
 id: "183459",
