@@ -43,3 +43,5 @@ This is an example of how it looks in a simple Bootstrap 4 table. Not all option
 ![An image example](https://i.imgur.com/vGHhCNd.png)
 
 #### If you still need help with set up, feel free to ask me for it on my Discord https://discord.gg/dCHkuxS
+
+*Regards to TermsGames for making me do this*
