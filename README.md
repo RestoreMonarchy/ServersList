@@ -3,7 +3,7 @@ Retrieves your server data from Unturned-Servers.net API.
 
 ## Requirements
 * PHP =< 5.0
-* Your must be registered on Unturned-Servers.net
+* Your must have your server/s registered on Unturned-Servers.net
 * Boostrap CDN for styling NOT REQUIRED
 
 ## Options
