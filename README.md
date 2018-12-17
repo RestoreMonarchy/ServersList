@@ -7,7 +7,7 @@ Retrieves your server data from Unturned-Servers.net API.
 * Boostrap CDN for styling NOT REQUIRED
 
 ## Options
-All of the options that unturned-servers.net API gives you. I post an example of my server infos (these higlighted on red are the options, the all info is getting updated within 5 minutes).
+All of the options that unturned-servers.net API gives you. I post an example of my server infos (these higlighted on red are the options, the all info is getting updated every 5 minutes).
 ```json
 {
 id: "183459",
